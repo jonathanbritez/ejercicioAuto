@@ -15,6 +15,7 @@ public class Auto {
 
 public class estadoAuto {
     
+    
    String Marca;
    Integer Modelo;
    Integer Kilometraje = 0;
